@@ -51,22 +51,14 @@
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=GokuVegeta456&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GokuVegeta456&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</td>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokuVegeta456&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<td>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokuVegeta456&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=GokuVegeta456&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=GokuVegeta456&theme=tokyonight&hide_border=true"/>
 </p>

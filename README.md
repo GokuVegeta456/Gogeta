@@ -55,8 +55,15 @@
 
 <img width="49%" height="210" src="https://github-readme-stats.vercel.app/api?username=GokuVegeta456&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokuVegeta456&theme=tokyonight&hide_border=true"/>
+## 💻 Most Used Languages
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</p>
+
+<p align="center">
+HTML • CSS • JavaScript • Git • GitHub
 </p>
 
 <p align="center">

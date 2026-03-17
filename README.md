@@ -53,9 +53,9 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GokuVegeta456&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=GokuVegeta456&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokuVegeta456&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokuVegeta456&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
